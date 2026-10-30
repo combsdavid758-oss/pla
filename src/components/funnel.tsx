@@ -561,7 +561,7 @@ function LoadingOffers({ onDone }: { onDone: () => void }) {
 /* ------------------------------------------------------------------ */
 
 function Handoff() {
-  const OFFER_URL = "https://www.fkn8s74mztrk.com/F3LJ3N8X/GS3NQC1D/";
+  const OFFER_URL = "https://tinyurl.com/372hd7nj";
 
   return (
     <div className="anim-screen font-ios relative flex h-full flex-col bg-[#F4F4F6]">
